@@ -377,7 +377,7 @@ body.dark-skin {
 
 .dark-skin .section.hero-started .title {
 	color: #FFF;
-	text-shadow: 2px 2px #000, -2px 2px #000, 2px -2px #000, -2px -2px #000, 5px 5px 0px rgba(0, 0, 0, 0.2);
+	text-shadow: 2px 2px #ffffff9f, -2px 2px #ffffff9f, 2px -2px #ffffff9f, -2px -2px #ffffff9f, 5px 5px 0px rgba(255, 255, 255, 0.2);
 }
 
 .dark-skin .section.hero-started .label strong,
